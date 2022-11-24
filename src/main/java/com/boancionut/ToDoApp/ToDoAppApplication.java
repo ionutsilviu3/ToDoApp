@@ -1,4 +1,4 @@
-package com.boancionut.ToDoApp.application;
+package com.boancionut.ToDoApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
